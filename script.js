@@ -1,3 +1,4 @@
+
 const form = document.querySelector('form');
 const resultDiv = document.querySelector('.result');
 
